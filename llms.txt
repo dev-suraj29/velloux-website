@@ -1,0 +1,47 @@
+# Velloux
+
+> Velloux is a web design and development company in Kharadi, Pune, India. It builds hand-coded websites, GST-ready billing software, e-commerce stores and technical SEO for clinics, IT service businesses, astrology and wellness brands and growing companies. Projects usually start from ₹25,000 and launch in 2 to 8 weeks.
+
+## Key facts
+- Location: Kharadi, Pune, Maharashtra 411014, India
+- Serves: Pune in person; the rest of India remotely
+- Approach: hand-written HTML, CSS and JavaScript (React or Next.js where needed); no page builders or resold templates
+- Typical timeline: 2-4 weeks for brand sites, 4-8 weeks for custom platforms
+- First reply: within one business day
+
+## Services
+- [Custom Website Design & Development](https://www.velloux.in/services/custom-website-development.html): Velloux designs and hand-codes custom websites for businesses in Pune and across India. Every site is written specifically for your brand in HTML, CSS and JavaScript, with React or Next.js when you need an app-like experience, so it loads fast, looks distinct and can grow with you.
+- [UI/UX & Brand Design](https://www.velloux.in/services/ui-ux-brand-design.html): Velloux creates wireframes, visual identity and interaction design for websites and web apps in Pune. We design around how your customers browse, compare and decide, so the interface earns enquiries and not only compliments.
+- [GST-Ready Billing & Invoice Software](https://www.velloux.in/services/billing-invoice-software.html): Velloux builds custom billing and invoice software for Indian service businesses, with automatic GST calculation, editable line items, logo embedding and one-click PDF or print export. It replaces spreadsheets and manual invoices with one system shaped around how your shop or service desk works.
+- [E-Commerce Website Development](https://www.velloux.in/services/ecommerce-development.html): Velloux builds fast online stores for retailers and D2C brands in Pune and across India, with product catalogues, cart and checkout flows and payment gateway integration. Stores are hand-coded and lightweight so product pages load quickly on mobile.
+- [Technical SEO & AI-Search Optimization](https://www.velloux.in/services/technical-seo-ai-search.html): Velloux sets up the technical foundations that help search engines and AI tools find and understand your business: structured data, crawlable site architecture, Core Web Vitals tuning and answer-first content. This covers classic SEO as well as generative engine optimization (GEO) and answer engine optimization (AEO).
+- [Website Maintenance & Support](https://www.velloux.in/services/website-maintenance.html): Velloux offers monthly website maintenance plans covering content updates, uptime and performance monitoring, security patches and small feature additions. It keeps your site fast, secure and current as your business changes.
+
+## Selected work
+- [Aura Coms](https://www.velloux.in/work.html#aura-coms): A premium, high-converting digital presence for an astrology and wellness brand. Animated star fields, zodiac interactions and a testimonials carousel, matched pixel-for-pixel to the approved design.
+- [TechExpert NexGen](https://www.velloux.in/work.html#techexpert-nexgen): Replace manual invoicing for an IT services business. A GST-compliant billing system with editable line items, automatic tax calculation, logo embedding and PDF export.
+- [Dr. Neha's Tooth Corner](https://www.velloux.in/work.html#tooth-corner): A premium clinic site that turns local searches into appointments. WhatsApp appointment booking, a before-and-after smile slider and Google Business Profile details throughout.
+- [Independent Astrology Studio](https://www.velloux.in/work.html#astrology-studio): A dark navy and gold premium site for an astrology brand. Animated star fields and zodiac motion, matched closely to the target reference.
+
+## Guides
+- [How much does a website cost in Pune? (2026 guide)](https://www.velloux.in/blog/how-much-does-a-website-cost-in-pune.html): A plain-language guide to website pricing in Pune: what changes the cost, typical ranges and what to ask before you hire.
+- [Hand-coded website vs WordPress vs page builder: which should you choose?](https://www.velloux.in/blog/hand-coded-vs-wordpress-vs-page-builder.html): An honest comparison of the three main ways to build a website, and who each one suits.
+
+## Key pages
+- [About](https://www.velloux.in/about.html): studio philosophy, process and comparison with templates
+- [FAQ](https://www.velloux.in/faq.html): answers on cost, timeline, GST billing, SEO and AI search
+- [Contact](https://www.velloux.in/contact.html): free quote form and studio location
+
+## Frequently asked questions
+- **What does Velloux do?** Velloux is a web design and development company in Kharadi, Pune. We design and hand-code websites, GST-ready billing software, e-commerce stores and technical SEO setups for clinics, IT service businesses, astrology and wellness brands and growing companies across India.
+- **How much does a website cost in Pune?** A custom website with Velloux typically costs between ₹25,000 and ₹1,50,000. A focused single-page or small brand site sits at the lower end, while multi-page platforms with booking, billing or a custom backend sit higher. We quote against your actual scope, not a fixed template package.
+- **How long does it take to build a website?** Most brand and business websites take 2 to 4 weeks from kickoff to launch. Platforms with custom logic, such as billing systems, booking flows or dashboards, usually take 4 to 8 weeks. The exact timeline is confirmed after the discovery call.
+- **Is a hand-coded website better than WordPress or a page builder?** For speed, originality and custom features, usually yes. A hand-coded site loads only the code it needs, gives full control over SEO markup and can include custom logic such as billing or booking. WordPress and page builders can be quicker to start with, but they often depend on themes and plugins that add weight and limit the design.
+- **Can you build a GST-compliant billing system?** Yes. We have built billing and receipt software for an IT services business with automatic GST calculation, editable line items, logo embedding and PDF or print export. We adapt the fields and invoice format to your business.
+- **Do you build websites for doctors and clinics?** Yes. Our dental clinic project includes WhatsApp appointment booking, a before-and-after smile slider and Google Business Profile details. We build clinic sites around the questions patients actually search for.
+- **Will my website show up on Google and in AI answers like ChatGPT?** We build the foundations that help: fast load times, semantic HTML, structured data (JSON-LD), answer-first content, a sitemap, crawler rules that allow search and AI bots, and an llms.txt file. No agency can guarantee rankings or AI citations, but these are the signals search engines and AI tools rely on.
+- **Do you work with businesses outside Pune?** Yes. We are based in Kharadi, Pune and meet local clients in person. We also work remotely with clients across India through video calls and WhatsApp.
+- **What happens after the website launches?** We submit your sitemap to Google Search Console and hand the site over. You can then add an optional monthly maintenance plan covering content updates, monitoring, security patches and small new features.
+- **How do I choose a web design company in Pune?** Look for live client work you can open on your phone, hand-written code rather than resold templates, clear pricing and timelines, and proof that the agency builds for search, such as structured data and fast load times. Ask who writes the code, what you receive at handover and what support exists after launch.
+- **What technologies does Velloux use?** We write HTML, CSS and JavaScript by hand and use React or Next.js when a project needs an app-like experience. Animation is handled with GSAP and design with Figma. Every build is tested for performance, accessibility and SEO before launch.
+- **How do I get a quote?** Send your project details through the contact form or message us on WhatsApp. We reply within one business day with questions, a rough scope and next steps. The quote is free.

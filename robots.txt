@@ -1,0 +1,8 @@
+# Velloux crawl rules
+# Search engines and AI answer engines (Googlebot, Bingbot, OAI-SearchBot, ChatGPT-User,
+# Claude-SearchBot, PerplexityBot, etc.) may crawl everything.
+# To opt out of AI model TRAINING only, add e.g.:  User-agent: GPTBot / Disallow: /
+User-agent: *
+Allow: /
+
+Sitemap: https://www.velloux.in/sitemap.xml

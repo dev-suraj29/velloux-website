@@ -1,0 +1,1 @@
+{ "name": "velloux-site", "private": true, "scripts": { "build": "python3 build/build.py && tailwindcss -c build/tailwind.config.js -i build/input.css -o assets/css/tailwind.css --minify" }, "devDependencies": { "tailwindcss": "3.4.17" } }
